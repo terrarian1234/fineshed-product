@@ -1,0 +1,225 @@
+.d1{
+    width: 300px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 5px;
+    margin-left: 200px;
+}
+.d2{
+    width: 300px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 5px;
+    margin-left: 525px;
+    margin-top: -220px;
+}
+.d3{
+    width: 300px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 5px;
+    margin-left: 850px;
+    margin-top: -210px;
+}
+.d4{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.p1{
+    padding: 30px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+}
+.p2{
+    padding: 30px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+}
+.p3{
+    padding: 30px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;    
+}
+.p4{
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 90px;
+    color: white;
+    margin-top: -80px;
+}
+.p5{
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 90px;  
+    color: hsl(333, 80%, 67%);
+}
+.f1{
+    padding: 30px;
+    border-radius: 50%;
+    width: 50px;
+}
+.f2{
+    padding: 30px;
+    border-radius: 50%;
+    width: 50px;
+}
+.f3{
+    padding: 30px;
+    border-radius: 50%;
+    width: 50px;
+}
+.s4{
+    color: #9e0b77;
+    font-size: 50px; 
+}  
+.s5{
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 702;
+  font-style: normal;
+  color: hsl(333, 80%, 67%);
+}
+body {
+    background-color: white;
+}
+
+
+
+
+.p9 {
+    background-color:  hsl(300, 24%, 96%);
+    margin-left: 200px;
+    margin-top: -5px;
+    border-radius: 10px;
+}
+
+
+
+.p10 {
+    background-color:  hsl(300, 24%, 96%);
+    margin-left: 200px;
+    margin-top: -5px;
+    border-radius: 10px;
+}
+
+
+
+.p11 {
+    background-color:  hsl(300, 24%, 96%);
+    margin-left: 200px;
+    margin-top: -5px;
+    border-radius: 10px;
+}
+
+
+.div1 {
+    width: 500px;
+    height: 50px;
+    background-color:  hsl(300, 24%, 96%);
+    margin-left: 700px;
+    margin-top: -550px;
+    border-radius: 10px;
+}
+
+
+.div2 {
+    width: 500px;
+    height: 50px;
+    background-color:  hsl(300, 24%, 96%);
+    border-radius: 10px;
+    margin-left: 700px;
+margin-top: 5px;
+    ;
+}
+
+.div3 {
+    width: 500px;
+    height: 50px;
+    margin-left: 700px;
+    margin-top: 5px;
+    background-color:  hsl(300, 24%, 96%);
+    border-radius: 10px;
+}
+
+
+
+.svg5 {
+    margin-top: px;
+    margin-left: 4px;
+}
+
+.svg4 {
+    margin-left: 4px;
+}
+
+.svg3 {
+    margin-left: 4px;
+}
+
+.svg2 {
+    margin-left: 4px
+}
+
+.svg1 {
+    margin-left: 50px;
+}
+
+
+.svg10 {
+
+    margin-left: 4px;
+}
+
+.svg9 {
+
+    margin-left: 4px;
+}
+
+.svg8 {
+
+    margin-left: 4px;
+}
+
+.svg7 {
+
+    margin-left: 4px
+}
+
+.svg6 {
+
+    margin-left: 50px;
+}
+
+.svg15 {
+
+    margin-left: 4px;
+}
+
+.svg14 {
+
+    margin-left: 4px;
+}
+
+.svg13 {
+
+    margin-left: 4px;
+}
+
+.svg12 {
+    margin-left: 4px;
+}
+
+.svg11 {
+
+    margin-left: 50px;
+}
